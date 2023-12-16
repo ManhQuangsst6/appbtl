@@ -1,0 +1,23 @@
+.ant-space {
+    cursor: pointer;
+    padding: 0 12px;
+    float: right;
+
+
+}
+
+.ant-layout-content {
+    overflow: auto;
+}
+
+.ant-layout-header {
+    justify-content: space-between;
+    display: flex;
+    border-bottom: 1px solid #cacaca;
+}
+
+.text-header {
+    margin-left: 12px;
+    font-size: 24px;
+    font-weight: 600;
+}
